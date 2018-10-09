@@ -202,7 +202,7 @@ gapminder %>%
 
 * `enter_*`, `exit_*`
 
-* `ease_aes*`
+* `ease_aes`
 ]
 
 ---
@@ -354,6 +354,43 @@ Defines how data should be interpolated (uses the tweenr package under the hood)
 
 ![](fig/bounce.gif)
 ]
+
+---
+# Recap: the new grammar
+
+.pull-left[
+### ggplot2
+
+* `aes`
+
+* `geom_*`
+
+* `stat_*`
+
+* `position_*`
+
+* `scale_*`
+
+* `coord_*`
+
+* `facet_*`
+]
+
+.pull-right[
+### gganimate
+
+* `transition_*`
+
+* `view_*`
+
+* `shadow_*`
+
+* `enter_*`, `exit_*`
+
+* `ease_aes`
+]
+
+
 ---
 # Back to the gapminder example
 
@@ -435,6 +472,6 @@ Resources:
 
 ### Thank you! 
 
-Some of the code available: https://github.com/kasparmartens/2018_10_gganimate
+Slides and some code examples available: https://github.com/kasparmartens/2018_10_gganimate
 
 .footnote[Kaspar Märtens (@kasparmartens)]
