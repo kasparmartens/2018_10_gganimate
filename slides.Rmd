@@ -44,6 +44,8 @@ class: middle, center, inverse
   ![:scale 50%](fig/data-imaginist.png)
 ]
 
+--
+
 Resources: 
 
 * See his UseR keynote talk on The Grammar of Animation https://youtu.be/21ZWDrTukEs
@@ -385,11 +387,6 @@ class: middle
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">transition_reveal is, *ahem*, revealed... <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw">#gganimate</a> <a href="https://t.co/9K4gT5xDyh">pic.twitter.com/9K4gT5xDyh</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/1036915662025895936?ref_src=twsrc%5Etfw">September 4, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putting Hawaii and Alaska into their place. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw">#gganimate</a> <a href="https://t.co/JOMWlVv3A9">pic.twitter.com/JOMWlVv3A9</a></p>&mdash; Claus Wilke (@ClausWilke) <a href="https://twitter.com/ClausWilke/status/1026190740370731009?ref_src=twsrc%5Etfw">August 5, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
