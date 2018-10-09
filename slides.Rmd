@@ -438,4 +438,6 @@ Resources:
 
 ### Thank you! 
 
-*ome of the code available: 
+Some of the code available: https://github.com/kasparmartens/2018_10_gganimate
+
+.footnote[Kaspar Märtens (@kasparmartens)]
